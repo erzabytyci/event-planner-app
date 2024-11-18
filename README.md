@@ -1,4 +1,4 @@
-#Event Management Application
+##Event Management Application
 
 An intuitive application that allows users to effortlessly book reservations for various events. Users can choose from pre-defined offers or manually create reservations, view and manage invoices, and easily modify or delete their bookings as needed.
 
